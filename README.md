@@ -1,6 +1,8 @@
 # Go Graph Search
 
-This is just where an example Go implementation of graph search I created for practise.
+[![GoReport](https://goreportcard.com/badge/github.com/dannycjones/go-graph-search)](https://goreportcard.com/report/github.com/dannycjones/go-graph-search)
+
+This is just where an example Go implementation of graph search I created for practice.
 
 ## How to use
 
